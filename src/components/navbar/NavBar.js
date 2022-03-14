@@ -9,7 +9,6 @@ export default function NavBar() {
         <li><NavLink to='/tuner'>Tuner</NavLink></li>
         <li><NavLink to='/recordings'>Recordings</NavLink></li>
         <li><NavLink to='/charities'>Charities</NavLink></li>
-        <li><NavLink to='/submit'>Submit</NavLink></li>
       </ul>
     </div>
   );
