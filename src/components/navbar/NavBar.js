@@ -1,9 +1,16 @@
+import { NavLink } from "react-router-dom";
 import './NavBar.css'
 
 export default function NavBar() {
   return (
     <div className="NavBar">
-      <h1>War Chatter</h1>
+      <ul>
+        <li><NavLink to='/'>Home</NavLink></li>
+        <li><NavLink to='/tuner'>Tuner</NavLink></li>
+        <li><NavLink to='/recordings'>Recordings</NavLink></li>
+        <li><NavLink to='/charities'>Charities</NavLink></li>
+        <li><NavLink to='/submit'>Submit</NavLink></li>
+      </ul>
     </div>
   );
 }

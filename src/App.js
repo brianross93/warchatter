@@ -1,9 +1,11 @@
-import './App.css';
+import NavBar from './components/navbar/NavBar';
+import Main from './components/Main';
 
 export default function App() {
   return (
-    <div className="App">
-      <h1>War Chatter App</h1>
+    <div>
+      <NavBar />
+      <Main />
     </div>
   );
 }

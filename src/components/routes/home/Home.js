@@ -3,7 +3,7 @@ import './Home.css'
 export default function Home() {
   return (
     <div className="Home">
-      <h1>War Chatter App</h1>
+      <h1>Home</h1>
     </div>
   );
 }
