@@ -1,3 +1,36 @@
-NavLink{
-    color: black;
+.NavBar {
+  background-color: #4C4C4C;
+}
+
+#logo {
+  width: 40px;
+  margin: 10px;
+}
+
+.nav, .title, .navlinks {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  font-family: 'Roboto Mono';
+  padding: 10px;
+}
+
+.nav {
+  justify-content: space-between;
+}
+
+.title {
+  padding: 0;
+  font-family: 'Roboto Mono';
+  font-weight: bolder;
+  color: #FFFFFF
+}
+
+.navlinks {
+  margin-right: 50px;
 }
