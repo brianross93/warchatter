@@ -31,7 +31,7 @@
       "link": "https://www.blue-yellow.lt/lt/"
     }
   ],
-  "For Children": [
+  "children": [
     {
       "title": "Tabletochki",
       "description": "This foundation has been supporting children with cancer for 10 years. They procure medicines, equipment, and arrange overseas treatment, among other things.",
@@ -53,7 +53,7 @@
       "link": "http://www.oasukraine.org/"
     }
   ],
-  "For The Elderly": [
+  "elderly": [
     {
       "title": "Happy Old",
       "description": "This charity provides older people across Ukraine with groceries and medicine, holds educational, entertainment, and sports events, as well as helps with employment. They even created a modeling agency for the elderly.",
@@ -70,7 +70,7 @@
       "link": "https://starenki.com.ua/"
     }
   ],
-  "For Women": [
+  "women": [
     {
       "title": "Women Perspectives",
       "description": "This organization has been helping women who have faced domestic violence, discrimination in the labor market, and other issues. The NGO works with local and state authorities to promote pro-equality gender policies in Ukraine.",
@@ -82,7 +82,7 @@
       "link": "https://marsh-zhinok.com.ua/"
     }
   ],
-  "For Blood Donation": [
+  "blood": [
     {
       "title": "Blood Agents",
       "description": "It is an NGO that promotes regular, conscious and gratuitous blood donations. They have encouraged people to donate blood over 5,000 times over the past six years.",
@@ -94,7 +94,7 @@
       "link": "https://www.donor.ua/"
     }
   ],
-  "For Animals": [
+  "animals": [
     {
       "title": "Sirius",
       "description": "Is the largest shelter for stray animals in Ukraine established in 2000. Its capacity is over 3,000 animals. The institution crowdfunds for animal feed, veterinary drugs, construction and repair of enclosures, and other needs.",
@@ -111,7 +111,7 @@
       "link": "https://www.facebook.com/UAnimals.official/"
     }
   ],
-  "For The Enviornment": [
+  "environment": [
     {
       "title": "Ukraine Without Waste",
       "description": "It is a Ukrainian non-profit promoting the practice of sorting household waste. They educate companies on how to go green at their offices, and hold lectures for the wider public.",
@@ -123,7 +123,7 @@
       "link": "https://laskastore.com/"
     }
   ],
-  "For The Homeless": [
+  "homeless": [
     {
       "title": "Help The Homeless",
       "description": "This initiative supports homeless people & the elderly in need, by providing them with free meals, medicine, hygiene products, clothes & shoes. Launched by a group of volunteers in 2016, the organization has been relying on crowdfunding.",
@@ -135,7 +135,7 @@
       "link": "https://t.co/oBWjKmjs0a"
     }
   ],
-  "For Investigative Journalism": [
+  "journalism": [
     {
       "title": "Slidstvo",
       "description": "Is an independent agency launched in 2012 that produces award-winning documentaries exposing corruption. They have investigated mismanagement of prisons, fraud, money laundering at PrivatBank & the assassination of journalist Sheremet.",
@@ -152,7 +152,7 @@
       "link": "https://zaborona.com/"
     }
   ],
-  "Preserve Ukranian Cultural Heritage": [
+  "heritage": [
     {
       "title": "Parkhomivka Museum",
       "description": "The museum, located in a small village in eastern Kharkiv Oblast, is an 18th-century villa that offers a permanent collection of exhibits by artists as iconic as Picasso, Malevich & Manet. You can support it by coming & buying a ticket.",
@@ -169,7 +169,7 @@
       "link": "https://www.facebook.com/groups/342879319403810/?ref=share"
     }
   ],
-  "Helping With COVID": [
+  "covid": [
     {
       "title": "Svoyi",
       "description": "Svoyi gives free oxygen concentrators to people who contracted COVID & can’t be hospitalized due to personal circumstances or when hospitals are overflowing. It also helps those discharged too early in favour of patients in more serious conditions.",
@@ -181,7 +181,7 @@
       "link": "http://monstrov.org/"
     }
   ],
-  "Other Charities": [
+  "other": [
     {
       "title": "The Chabad Center",
       "description": "The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnieper. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.",
