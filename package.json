@@ -1,5 +1,6 @@
 {
   "name": "war-chatter",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "react-scripts deploy",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

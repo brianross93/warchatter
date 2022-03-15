@@ -1,10 +1,17 @@
 import './CharitiesList.css'
-import charities from './charities.json'
+import Charities from './charities.json'
 
 export default function CharitiesList() {
   return (
     <div className="CharitiesList">
-      <h1>List</h1>
+      <ul>
+        {Charities.charities.map((charity, i ) => (
+          <li key={i}>
+            <a href={charity.link}>{charity.title}</a>
+            <p>{charity.description}</p>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
