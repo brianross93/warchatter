@@ -9,3 +9,9 @@
 
   FONT: Robot Mono
 */
+
+body {
+  background-color: #131313;
+  color: #FFFFFF;
+  font-family: 'Roboto Mono';
+}
