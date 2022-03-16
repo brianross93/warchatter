@@ -1,13 +1,12 @@
 import './Charities.css'
-import CharitiesList from './charitiesList/CharitiesList';
-// import CharitiesFooter from './charitiesFooter/CharitiesFooter';
+import CharitiesBanner from './charitiesBanner/CharitiesBanner'
+import CharitiesList from './charitiesList/CharitiesList'
 
 export default function Charities() {
   return (
     <div className="Charities">
-      <h1>Charities Page</h1>
+      <CharitiesBanner />
       <CharitiesList />
-      {/* <CharitiesFooter /> */}
     </div>
   );
 }
