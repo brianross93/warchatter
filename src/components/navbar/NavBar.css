@@ -38,6 +38,14 @@
   color: #FFFFFF;
 }
 
+.title:hover {
+  font-style: italic;
+}
+
 .navlinks {
   margin-right: 50px;
+}
+
+.navlinks li:hover {
+  font-style: italic;
 }

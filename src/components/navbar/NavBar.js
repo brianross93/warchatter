@@ -5,31 +5,16 @@ export default function NavBar() {
   return (
     <div className="NavBar">
       <ul className="nav">
-        <li>
-          <ul className="title">
-            <li><img id="logo" src="./logo_white.png" alt="logo"/></li>
-            <li id="title">War Chatter</li>
-          </ul>
-        </li>
+        <NavLink to='/' className={'link'} >
+          <li>
+            <ul className="title">
+              <li><img id="logo" src="./logo_white.png" alt="logo"/></li>
+              <li id="title">War Chatter</li>
+            </ul>
+          </li>
+        </NavLink>
         <li>
           <ul className="navlinks">
-            <li>
-              <NavLink 
-                to='/' 
-                className={'link'} 
-                style={({ isActive }) =>
-                  isActive
-                    ? {
-                        color: '#FFFFFF',
-                      }
-                    : { 
-                        color: '#B1B1B1', 
-                      }
-                    }
-              >
-                Home
-              </NavLink>
-            </li>
             <li>
               <NavLink 
                 to='/tuner' 
