@@ -12,3 +12,11 @@
 html,body{
   margin: 0
 }
+body {
+  background-color: #4E4E4E;
+  color: #FFFFFF;
+  font-family: 'Roboto Mono';
+  width: 100%;
+  margin-left: 0;
+  margin-bottom: 0
+}

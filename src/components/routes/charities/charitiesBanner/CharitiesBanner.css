@@ -1,0 +1,24 @@
+.CharitiesBanner {
+  background-image: url("./charities.jpeg");
+  height: 600px;
+  filter: grayscale(100%);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.reddit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+img {
+  width: 50px
+}

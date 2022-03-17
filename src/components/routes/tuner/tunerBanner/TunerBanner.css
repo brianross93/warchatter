@@ -1,0 +1,14 @@
+.TunerBanner {
+  background-image: url("./president.jpeg");
+  height: 600px;
+  filter: grayscale(100%);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
