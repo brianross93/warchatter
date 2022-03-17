@@ -1,3 +1,4 @@
+
 .NavBar {
   background-color: #4C4C4C;
 }
@@ -12,6 +13,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin: 0;
 }
 
 .link {
