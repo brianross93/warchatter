@@ -1,3 +1,33 @@
 .Tuner {
   margin-top: 100px;
 }
+
+/* Arrange the list of frequencies into a flex bocx with three columns */
+/* .FrequencyList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  margin-top: 20px;
+} */
+/* Display the frequencies side by side in a nice flex box column*/
+/* Add spaces after each frequency */
+.Frequencies-list-item{
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.Frequencies-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+
+
+  width: 50%;
+  margin: 20px;
+
+}
+
+

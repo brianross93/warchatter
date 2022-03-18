@@ -8,7 +8,7 @@ export default function Tuner() {
     <div className="Tuner">
       <TunerBanner />
       <Tuners />
-      {/* <Frequencies /> */}
+      <Frequencies />
     </div>
   );
 }
