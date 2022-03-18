@@ -16,9 +16,9 @@ export default function RecordingsList() {
     // Code:
     const transcriptDiv = document.createElement('div');
     const transcriptP = document.createElement('p');
-    transcriptP.innerHTML = transcript4034;
-    transcriptDiv.appendChild(transcriptP);
-    document.body.appendChild(transcriptDiv);
+    // transcriptP.innerHTML = transcript4034;
+    // transcriptDiv.appendChild(transcriptP);
+    // document.body.appendChild(transcriptDiv);
 
     // also open the text in a small window off to the side
     const transcriptWindow = window.open('', 'transcriptWindow', 'width=500,height=500');
@@ -39,6 +39,23 @@ export default function RecordingsList() {
     transcriptWindow.document.body.style.width = '350px'
 
   }
+
+  //create a unix time stamp converter for converting times from unix to human readable
+  // this timestamp function will be called in the forEach loop below
+  function timestamp(unixTime){
+    const date = new Date(unixTime * 1000);
+    const year = date.getFullYear();
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+    const hours = date.getHours();
+    const minutes = "0" + date.getMinutes();
+    const seconds = "0" + date.getSeconds();
+    const formattedTime = year + '-' + month + '-' + day + ' ' + hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+    return formattedTime;
+  }
+
+
+
   return (
     <>
     <div className="7933Recording">
@@ -47,8 +64,9 @@ export default function RecordingsList() {
         {Recordings.f7933.map((recording, i ) => (
           <li key={i}>
             <a href={recording.link}>{recording.title}</a>
-            <p>{recording.time}</p>
+            <p>{timestamp(recording.timestamp)}</p>
           </li>
+          
         ))}
       </ul>
       <ul>
