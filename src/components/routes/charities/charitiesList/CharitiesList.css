@@ -8,12 +8,12 @@
     color: white;
 }
 .container {
-     width: calc(100% - 80px);
-     margin-top: 10%;
-     margin-bottom: 5%;
-     display: grid;
-     grid-template-columns: 1fr 1fr 1fr;
-     grid-gap: 20px;
+    width: calc(100% - 80px);
+    margin-top: 10%;
+    margin-bottom: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
 }
 h2{
     text-align: center;
@@ -26,8 +26,4 @@ a{
 }
 li{
     list-style-type: none;
-}
-.Charities{
-    width: 100vw;
-    margin-top: 10%;
 }
