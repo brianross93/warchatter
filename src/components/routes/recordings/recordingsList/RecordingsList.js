@@ -21,12 +21,22 @@ export default function RecordingsList() {
     document.body.appendChild(transcriptDiv);
 
     // also open the text in a small window off to the side
-    // Code:
     const transcriptWindow = window.open('', 'transcriptWindow', 'width=500,height=500');
     transcriptWindow.document.write(transcript4034);
 
     
-
+    transcriptWindow.document.body.style.backgroundColor = '#FFFFFF';
+    transcriptWindow.document.body.style.fontFamily = 'Arial';
+    transcriptWindow.document.body.style.fontSize = '16px';
+    transcriptWindow.document.body.style.color = '#000000';
+    transcriptWindow.document.body.style.padding = '10px';
+    transcriptWindow.document.body.style.margin = '0';
+    transcriptWindow.document.body.style.border = '1px solid #000000';
+    transcriptWindow.document.body.style.borderRadius = '5px';
+    transcriptWindow.document.body.style.boxShadow = '5px 5px 5px #000000';
+    transcriptWindow.document.body.style.overflow = 'scroll';
+    transcriptWindow.document.body.style.textAlign = 'left';
+    transcriptWindow.document.body.style.width = '350px'
 
   }
   return (
