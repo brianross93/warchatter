@@ -13,6 +13,11 @@
   align-items: center;
 }
 
+.CharitiesBanner h1 {
+  font-size: 60px;
+  text-shadow: 3px 3px #333;
+}
+
 .reddit {
   display: flex;
   flex-direction: row;
