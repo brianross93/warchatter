@@ -7,7 +7,6 @@ export default function Charities() {
   return (
     <div className="Charities">
       <CharitiesList />
-      <Footer />
       <CharitiesBanner />
     </div>
   );
