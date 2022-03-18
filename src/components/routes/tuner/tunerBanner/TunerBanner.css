@@ -12,3 +12,16 @@
   flex-direction: column;
   align-items: center;
 }
+
+.TunerBanner h1 {
+  font-size: 60px;
+}
+
+.TunerBanner h1, h3, li {
+  text-shadow: 3px 3px #333;
+}
+
+.TunerBanner li {
+  display: flex;
+  justify-content: center;
+}
