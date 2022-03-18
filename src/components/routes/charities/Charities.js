@@ -6,9 +6,9 @@ import CharitiesBanner from './charitiesBanner/CharitiesBanner'
 export default function Charities() {
   return (
     <div className="Charities">
+      <CharitiesBanner />
       <CharitiesList />
       <Footer />
-      <CharitiesBanner />
     </div>
   );
 }
