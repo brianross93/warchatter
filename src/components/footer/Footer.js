@@ -9,7 +9,7 @@ export default function Footer() {
       </div>
       <div className="discord">
         <p>Join our Discord server: </p>
-        <a href="https://discord.com/invite/K49eBFUC"><img src="./discord.png" alt="discord logo" /></a>
+        <a href="https://discord.com/invite/VuFv525M"><img src="./discord.png" alt="discord logo" /></a>
       </div>
     </div>
   )
