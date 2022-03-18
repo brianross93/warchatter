@@ -72,7 +72,7 @@ export default function RecordingsList() {
         {Recordings.f4034.map((recording, i ) => (
           <li key={i}>
             <a href={recording.link}>{recording.title}</a>
-            <p>{recording.time}</p>
+            <p>{timestamp(recording.time)} UKR TIME</p>
             {/* display transcript data */}
             <p>{recording.transcript.file}</p>
           </li>
