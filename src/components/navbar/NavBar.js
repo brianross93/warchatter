@@ -65,6 +65,21 @@ export default function NavBar() {
               >
                 Charities
               </NavLink>
+              <NavLink 
+                to='/transcripts' 
+                className={'link'}
+                style={({ isActive }) =>
+                isActive
+                  ? {
+                      color: '#FFFFFF',
+                    }
+                  : { 
+                      color: '#B1B1B1', 
+                    }
+                  }
+              >
+                Transcripts
+              </NavLink>
             </li>
           </ul>
         </li>
