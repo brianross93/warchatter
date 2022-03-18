@@ -1,91 +1,101 @@
 {
-  "f3809": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
+  "f8791":[
+      {
+          "title": "Recordings on 8791: Military Operations",
+          "time": 1646466706,
+          "link": "https://archive.org/details/websdr_recording_start_2022-03-05T07_29_45Z_8791.0kHz"
+      }
   ],
-  "f4034": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
+  "f4034":[
+      {
+          "title": "Recordings on 4034",
+          "time": 1646335645,
+          "link": "https://archive.org/details/websdr_recording_2022-03-02T14_52_42Z_4034.0kHz",
+          "transcript": {
+              "type": "file",
+              "path": "transcript.txt"
+          }
+      }
   ],
-  "f4183": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
+  "f3809":[
+      {
+          "title": "Recordings over Freq 3809",
+          "time": 1646174346,
+          "link": "https://archive.org/details/websdr_recording_start_2022-03-01T22_27_54Z_3809.0kHz"
+      }
   ],
-  "4649": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
+  "f9741":[
+      {
+          "title": "Recordings over Freq 9741",
+          "time": 1646124215,
+          "link": "https://archive.org/details/websdr_recording_start_2022-03-01T08_23_32Z_9741.0kHz"
+      }
   ],
+  "f4649":[
+      {
+          "title": "Recordings over Freq 4649-5",
+          "time": 1645819200,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-25T20_53_30Z_4649.5kHz"
+      }
+  ],
+  "f4183":[
+      {
+          "title": "Recordings over Freq 4183",
+          "time": 1646055015,
+          "link": "https://archive.org/details/websdr_recording_start_2022-03-01T00_57_28Z_4813.0kHz"
+      }
+  ],
+  
   "f7933": [
-    {
-      "title": "Buran possibly dying",
-      "time": 1646000700,
-      "link": "https://archive.org/details/buran-possibly-dying"
-    },
-    {
-      "title": "Russian Artillery Communications (Part 2)",
-      "time": 1645999200,
-      "link": "https://archive.org/details/where-tf-is-the-battery"
-    },
-    {
-      "title": "Russian Artillery Communications (Part 1)",
-      "time": 1645995000,
-      "link": "https://archive.org/details/finaloutput"
-    },
-    {
-      "title": "Buran fires on Ukrainian village",
-      "time": 1645993200,
-      "link": "https://archive.org/details/buran-opens-fire-on-residents-of-unknown-place-and-signal-jamming-with-ukraine-anthem"
-    },
-    {
-      "title": "Russian Military Attack on Ukrainian Helicopter (Part 5)",
-      "time": 1645989420,
-      "link": "https://archive.org/details/websdr_recording_start_2022-02-27T19_07_27Z_7933.0kHz"
-    },
-    {
-      "title": "Russian Military Attack on Ukrainian Helicopter (Part 4)",
-      "time": 1645987800,
-      "link": "https://cdn.discordapp.com/attachments/947444268954419220/947571908403142686/websdr_recording_start_2022-02-27T19_07_27Z_7933.0kHz.wav"
-    },
-    {
-      "title": " Russian Military Attack on Ukrainian Helicopter (Part 3)",
-      "time": 1645987080,
-      "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_45_33Z_7933.0kHz"
-    },
-    {
-      "title": " Russian Military Attack on Ukrainian Helicopter (Part 2)",
-      "time": 1645986420,
-      "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_29_19Z_7933.1kHz"
-    },
-    {
-      "title": "Russian Military Attack on Ukrainian Helicopter (Part 1)",
-      "time": 1645984740,
-      "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_04_39Z_7933.0kHz"
-    }
-  ],
-  "f8791": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
-  ],
-  "f9741": [
-    {
-      "title": "",
-      "time": 0,
-      "link": ""
-    }
+      {
+          "title": "New Buran Unit, Russian Communications",
+          "time": 1645993840,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-28T02_14_53Z_7933.0kHz"
+      },
+      {
+          "title": "Buran possibly dying",
+          "time": 1646000700,
+          "link": "https://archive.org/details/buran-possibly-dying"
+      },
+      {
+          "title": "Russian Artillery Communications (Part 2)",
+          "time": 1645999200,
+          "link": "https://archive.org/details/where-tf-is-the-battery"
+      },
+      {
+          "title": "Russian Artillery Communications (Part 1)",
+          "time": 1645995000,
+          "link": "https://archive.org/details/finaloutput"
+      },
+      {
+          "title": "Buran fires on Ukrainian village",
+          "time": 1645993200,
+          "link": "https://archive.org/details/buran-opens-fire-on-residents-of-unknown-place-and-signal-jamming-with-ukraine-anthem"
+      },
+      {
+          "title": "Russian Military Attack on Ukrainian Helicopter (Part 5)",
+          "time": 1645989420,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-27T19_07_27Z_7933.0kHz"
+      },
+      {
+          "title": "Russian Military Attack on Ukrainian Helicopter (Part 4)",
+          "time": 1645987800,
+          "link": "https://cdn.discordapp.com/attachments/947444268954419220/947571908403142686/websdr_recording_start_2022-02-27T19_07_27Z_7933.0kHz.wav"
+      },
+      {
+          "title": " Russian Military Attack on Ukrainian Helicopter (Part 3)",
+          "time": 1645987080,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_45_33Z_7933.0kHz"
+      },
+      {
+          "title": " Russian Military Attack on Ukrainian Helicopter (Part 2)",
+          "time": 1645986420,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_29_19Z_7933.1kHz"
+      },
+      {
+          "title": "Russian Military Attack on Ukrainian Helicopter (Part 1)",
+          "time": 1645984740,
+          "link": "https://archive.org/details/websdr_recording_start_2022-02-27T18_04_39Z_7933.0kHz"
+      }
   ]
 }

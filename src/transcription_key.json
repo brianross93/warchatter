@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-flash-344417",
+  "private_key_id": "69b490b16116c6f95e9a1826741eb80e46ed026c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5YAqI9teEFTez\n1gMLgsQ4jCXtCRLp8oiClHqjWDpic9rFic6wnP/Xx4gJ0atAScS5g6XNVt/Ql/N6\nvN4bAel3hISRChvXzLr2+Y5AGdoayksmAbW4KdvStz0vt5YqGyo4gG7ehi4PpB2K\nPyVPTIJbiq9OHmQXNTBPUfLIDPVywKhGR9QXhWXzdwDjaeizQ5MdTK5XJiJe8Xfh\nqnJ05m0Sm2fa6JVQXjuiSTaZ4W8CI7xMEdc2QGiJEgtsLdAj1whVzS9H66fN8s+F\nhLlyBt77pRyOfHwO1mIZVkQxfpL2WL5o/9ERgLdJAtTLto/PXjBBGmoDSYSFl/F1\nv8ccyZohAgMBAAECggEAAZK+9Mu9Nwx/VbznKOqs6lBZhgIxH792un1hy2RWl1OI\n2jwkV+N5dVEdyyYm3TW39bjuXvrEH5puSSRjdohLwRhFUVbm25x0bWItukG5VrLO\nLasujm8Fu/2igguvKEBtCHUNB5UQ8Py8HbCPPMv6dc/qh4yh7ZUwEY62vcVs/ud6\nenYr6Mg6eDtYQbZ5hiHAJ9jdphvGonwv3cF/LcVdTmVQPQnjdSJjaASr/fhvfLeH\nJ4y5pBr7FvAVUUQn37Y404jFRYr7GLZSZCwIWotsgscAVT50EkMQvAGxmP1cwN8o\njAwLytx15dXJ4m2zhkvRqrVp2F2D4dajIUnCABYMDwKBgQDjlOtwrlJ4qvnGoWzM\nt12vyfGh+cRzvOcZgThy4scGcNMnVSMJp2IjEcoGqMuUoHoCH78h5vRzYvx2jwqM\nCWcopA38njerKTaE7YEven/nlEys8NkpZi8EadwZbkw2nsjZN7IbkT/ECYqT/WRd\nnBFivc6jA8md4YbAm+78FeVEYwKBgQDQhei0IUgWN/jSA0MIMee4B3sa0Gd1tiws\nTwNq8I1hLA6zdNti/tScgNllSor1vCypwpwrfof4h7y5wTlNz6aGc+6XgrQN4Wzw\n3zeTSEj6YfeGvLhWDdFQOEzQsyJEIZKO31F+Q6FidbvHcErYDKq9Fdr8cvXf8L66\nQeJBAg0kqwKBgQCJlGZ8uTWsMxhKpx3B6HwfoEKOPBMyMJm4xnCcq1HMJ/rOhV5o\nIKNoNgHe4r4nvJflntGKKjfPZaDf/3tNywVtAThfZjqbI5AM7hOx4yldkz6DMhrm\nNxrnXSOs0AwM3RLolg37MmTNG0OGUaISIR41hi9cRxbkdgljeSERjh8KpwKBgFTx\nh8cBG8V5TZH3pDHNapBr87kLlmm8KShvk3vXvDAOa3qtKsWb+245itWZVRwfaK5K\nyaVqKOeUG8wrqzVIVpTE2ze7Fa/l2aQRuij0NE5S5Ctt60Wa4V5lYN1Pa7EHYBV1\nYVQnJrHeNf1bgBGcr1zRb2CRUBnGj1t+hTVoKYR7AoGBAJ6zdDBw+N1aXhaEAeBT\ngAhnbmtGq4e3/XPSQEPzzSLHo1g6yF5Tb2I3nB8C8Uaapw5VyFwAWhS2Z1ZTv767\nF5NvIIfb4GIqLaxcurO/5DEDj4Y0d4Zg9LEN/bKK/0IyJmsW/v8wo+hTd1Gt15im\n3BRMOWCc4rXk9MX0KT10Lghx\n-----END PRIVATE KEY-----\n",
+  "client_email": "warchatter@eco-flash-344417.iam.gserviceaccount.com",
+  "client_id": "106568788628474625148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/warchatter%40eco-flash-344417.iam.gserviceaccount.com"
+}
