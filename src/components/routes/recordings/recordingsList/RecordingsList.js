@@ -51,6 +51,8 @@ export default function RecordingsList() {
     const minutes = "0" + date.getMinutes();
     const seconds = "0" + date.getSeconds();
     const formattedTime = year + '-' + month + '-' + day + ' ' + hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+    console.log(formattedTime);
+    console.log("im over here")
     return formattedTime;
   }
 
@@ -64,7 +66,8 @@ export default function RecordingsList() {
         {Recordings.f7933.map((recording, i ) => (
           <li key={i}>
             <a href={recording.link}>{recording.title}</a>
-            <p>{timestamp(recording.timestamp)}</p>
+            <p>{timestamp(recording.time)} UKR TIME</p>
+            {/* <p>{timestamp(recording.timestamp)}</p> */}
           </li>
           
         ))}
